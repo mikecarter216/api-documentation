@@ -7,8 +7,8 @@
   },
   "servers": [
     {
-      "url": "http://localhost:3000",
-      "description": "Local server"
+      "url": "https://api-documentation-d313.onrender.com",
+      "description": "main"
     }
   ],
   "tags": [
