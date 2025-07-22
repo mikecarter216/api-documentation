@@ -1,0 +1,18 @@
+{
+  "name": "w05-final-api",
+  "version": "1.0.0",
+  "description": "W05 Final Project Part 1 API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Michael Akpan",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "mongoose": "^7.8.7",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
